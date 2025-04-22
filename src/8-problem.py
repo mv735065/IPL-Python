@@ -21,7 +21,7 @@ for delivery in dataDeliveries:
         result[player_dismissed][bowler] = 1
 
 
-
+# print(result)
 def get_highest_dismissed(players_data):
     max_value = 0
     most_player = None
